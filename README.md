@@ -1,4 +1,3 @@
-# dog-breed-identification-TensorFlow
 # Dog Breed Classification with Transfer Learning
 
 This project implements an end-to-end deep learning pipeline for **multi-class image classification** using **TensorFlow 2 and Keras**. The goal is to classify images of dogs into **120 different breeds** using **transfer learning** with a pretrained **MobileNetV2** model.
